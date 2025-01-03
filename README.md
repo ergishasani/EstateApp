@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [Ergis Hasani] at [portfolio-ergis.netlify.app].
+For any questions or feedback, please contact Ergis Hasani at Portfolio(https://portfolio-ergis.netlify.app/).
